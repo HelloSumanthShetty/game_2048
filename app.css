@@ -25,6 +25,14 @@ hr{
 gap: 10px;    
 }
 
+#reset{
+    padding: 1rem;
+    font-size: 1.25rem;
+   
+    background-color:rgb(233, 84, 3);
+    color: azure;
+    border-radius: 1cap;
+    }
 .tile{
     width: 132px;
     height: 132px;

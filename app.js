@@ -174,3 +174,9 @@ function setTwo() {
         }
     }
 }
+function handleClick(){
+    window.location.reload();
+}
+
+const resetbt=document.getElementById("reset")
+resetbt.addEventListener("click",handleClick)
